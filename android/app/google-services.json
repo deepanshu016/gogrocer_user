@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "352076647507",
+    "firebase_url": "https://gogrocer-ab300.firebaseio.com",
+    "project_id": "gogrocer-ab300",
+    "storage_bucket": "gogrocer-ab300.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352076647507:android:2af57234230870d8268aa6",
+        "android_client_info": {
+          "package_name": "com.tecmanic.gogrocer.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352076647507-l98tus2msncfjdashs5haabodmtuhgr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQb_sZoSQPe9ZlLZeT236QWKfocjFcdco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352076647507-l98tus2msncfjdashs5haabodmtuhgr1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "352076647507-68o8g5d8c7morsb0b9ddlukbb08nqo83.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gogroceruser.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352076647507:android:17af996ec8ce06de268aa6",
+        "android_client_info": {
+          "package_name": "com.tecmanic.gogrocer.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352076647507-nnfcvcp9bgirl1gkl4gqkc7erkpndv90.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tecmanic.gogrocer.store",
+            "certificate_hash": "13fb50bcd71953c1d405ddcb4e69e702dc7e15b2"
+          }
+        },
+        {
+          "client_id": "352076647507-l98tus2msncfjdashs5haabodmtuhgr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQb_sZoSQPe9ZlLZeT236QWKfocjFcdco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352076647507-l98tus2msncfjdashs5haabodmtuhgr1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "352076647507-68o8g5d8c7morsb0b9ddlukbb08nqo83.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gogroceruser.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352076647507:android:b940b6720584b698268aa6",
+        "android_client_info": {
+          "package_name": "com.tecmanic.gogrocer.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352076647507-9rd7r3bj7n79vqahtltehssfmkthfurm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tecmanic.gogrocer.user",
+            "certificate_hash": "13fb50bcd71953c1d405ddcb4e69e702dc7e15b2"
+          }
+        },
+        {
+          "client_id": "352076647507-l98tus2msncfjdashs5haabodmtuhgr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQb_sZoSQPe9ZlLZeT236QWKfocjFcdco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352076647507-l98tus2msncfjdashs5haabodmtuhgr1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "352076647507-68o8g5d8c7morsb0b9ddlukbb08nqo83.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gogroceruser.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
